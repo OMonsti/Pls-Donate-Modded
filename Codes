@@ -1,11 +1,11 @@
 {
     "MoreAhead": {
-        "Active": true,
+        "Active": false,
         "RewardType": "Robux",
         "RewardValue": "1000000"
     },
     "SpeedDialss": {
-        "Active": true,
+        "Active": false,
         "RewardType": "Robux",
         "RewardValue": "750000"
     }
