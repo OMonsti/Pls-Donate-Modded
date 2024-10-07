@@ -1,9 +1,12 @@
 {
-
-"PDM!": {
-    "Active": true,
-    "RewardType": "Robux",
-    "RewardValue": "1000000"
-}
-
+    "PDM!": {
+        "Active": true,
+        "RewardType": "Robux",
+        "RewardValue": "1000000"
+    },
+    "NEW_CODE": {
+        "Active": true,
+        "RewardType": "Robux",
+        "RewardValue": "750000"
+    }
 }
